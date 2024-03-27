@@ -1,0 +1,14 @@
+.employeeData{
+    padding: 50px;
+    align-content: center;
+    background-color: whitesmoke;
+    table-layout: auto;
+    width: 100%;
+    height: 100%;
+}
+.theader{
+    background-color: aqua;
+}
+.tBody{
+    background-color: cadetblue;
+}
