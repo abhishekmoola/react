@@ -3,7 +3,7 @@ import { employeeData } from './EmployeeData';
 import Hooks from './Hooks.css'
 
 function UseStateWithHooks(){
-    
+    //
 const [index, setIndex] = useState(0);
     // debugger;
     console.log("Before updating the value " + index);
